@@ -1,7 +1,7 @@
 
 # 🚖 Ola Analytics Dashboard  
 
-![Power BI Dashboard](images/Screenshot 2025-03-22 232416.png)  
+![Power BI Dashboard](https://raw.githubusercontent.com/hamzak786/Ola-Analytics-Dashboard/main/images/Screenshot 2025-03-22 232416.png)  
 
 ## 📌 Overview  
 This project is an **end-to-end data analytics solution** for **Ola’s ride-sharing data**, leveraging **SQL, Excel, and Power BI** to extract insights from a **100,000-row dataset**. The dashboard provides **business intelligence** for analyzing trip patterns, driver performance, customer trends, and revenue metrics.  
